@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- 以上抬头声明必须放下第一行-->
+<!-- 根标签唯一 -->
+<user>
+    <user id = "1">
+        <name>x</name>
+        <sex>男</sex>
+        <age>10</age>
+        <password>122333</password>
+    </user>
+    <!--
+        &lt;    <
+        &gt;    >
+        &amp;   &
+        &apos;   '
+        &quot;   "
+        or
+        CD
+    -->
+    <user id = "2">
+        <name>g</name>
+        <sex>女</sex>
+        <age>12</age>
+        <password>123456</password>
+    </user>
+</user>
